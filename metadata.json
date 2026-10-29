@@ -1,0 +1,6 @@
+{
+  "name": "SURAKSHA NETRA - Industrial Drone Surveillance",
+  "description": "Autonomous industrial drone-surveillance and 3D digital twin command centre prototype for metallurgical and heavy manufacturing plants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
